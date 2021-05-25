@@ -1,0 +1,1 @@
+[{"InvoiceNumber":null,"InvoiceDate":null,"Total":null},{"InvoiceNumber":"HOT-2020-9","InvoiceDate":"2020-08-04","Total":"824.82"},{"InvoiceNumber":"HOT-2021-30","InvoiceDate":"2021-03-01","Total":"706.82"}]
